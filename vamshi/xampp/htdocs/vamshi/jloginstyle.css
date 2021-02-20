@@ -1,0 +1,50 @@
+body{
+        background-image: url(images/image_2.png);
+
+}
+#nav_font{
+    color: antiquewhite;
+    
+    
+}
+body.signinbody{
+    background-color: #e6f2ff; 
+}
+.card.sigincard{
+    background-color: #f4f4f4;
+    margin: 7%;
+    padding: 40px 0px 20px;
+    box-shadow: 2px 2px 5px rgba( 0, 0, 0, .5);
+}
+
+img.img-sigin{
+    text-align: center;
+    padding-left:26%;
+    
+    
+}
+a.navbar-brand.signup{
+                color: #5cd65c;
+                border: 
+    
+    
+}
+form{
+        align-items: center;
+        display: block;
+        font-family: sans-serif;
+        
+        
+    
+    
+}
+card-body.form.textstyle{
+                align-items: center;
+    
+    
+    
+    
+}
+
+
+            
